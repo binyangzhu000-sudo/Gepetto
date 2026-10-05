@@ -101,6 +101,14 @@ payment method with the corresponding provider.
   - meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8
   - meta-llama/Llama-4-Scout-17B-16E-Instruct
   - Qwen/Qwen2.5-VL-7B-Instruct
+- [Atlas Cloud](https://atlascloud.ai/)
+  - deepseek-ai/DeepSeek-V3.1-Terminus
+  - deepseek-ai/DeepSeek-V3.2-Exp
+  - Qwen/Qwen3-235B-A22B-Instruct-2507
+  - moonshotai/kimi-k2.7-code
+  - moonshotai/kimi-k3
+  - zai-org/glm-4.7
+  - zai-org/glm-5
 - [LM Studio](https://lmstudio.ai/)
   - Any local model exposed through LM Studio (will not appear if LM Studio Developer server is not running)
 ## Adding your own provider
